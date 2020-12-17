@@ -4,8 +4,7 @@
   "description": "A Javascript runtime type checker",
   "main": "index.js",
   "scripts": {
-	"test": "test",
-	"build": "tsc"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
