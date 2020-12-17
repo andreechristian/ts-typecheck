@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+		"target": "es5",
+		"module": "ES6",
+		"removeComments": true,
+		"baseUrl": "./src",
+		"moduleResolution": "node",
+		"strict": true,
+		"declaration": true,
+		"outDir": "./",
+		"lib": [
+			"es2017"
+		]
+	},
+    "include": [
+		"./src/index.ts"
+	],
+	"exclude": []
+}

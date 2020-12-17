@@ -1,0 +1,26 @@
+{
+  "name": "ts-typecheck",
+  "version": "0.1.0",
+  "description": "A Javascript runtime type checker",
+  "main": "index.js",
+  "scripts": {
+	"test": "test",
+	"build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreechristian/ts-typecheck.git"
+  },
+  "keywords": [
+    "runtime",
+    "typecheck",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Andree Christian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreechristian/ts-typecheck/issues"
+  },
+  "homepage": "https://github.com/andreechristian/ts-typecheck#readme"
+}
