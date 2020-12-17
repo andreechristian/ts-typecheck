@@ -1,6 +1,6 @@
 {
   "name": "@andreech/ts-typecheck",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Javascript runtime type checker",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,10 @@
   "keywords": [
     "runtime",
     "typecheck",
-    "typescript",
+	"typescript",
+	"type",
+	"types",
+	"typechecking",
     "javascript"
   ],
   "author": "Andree Christian",
