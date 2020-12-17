@@ -1,5 +1,5 @@
 {
-  "name": "js-typecheck",
+  "name": "runtime-typecheck",
   "version": "0.1.0",
   "description": "A Javascript runtime type checker",
   "main": "index.js",
